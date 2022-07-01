@@ -19,12 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArbolBinario.h" />
     <ClInclude Include="Cola.h" />
     <ClInclude Include="DeCola.h" />
+    <ClInclude Include="Lista_DEC.h" />
     <ClInclude Include="Pila.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pila.cpp" />
     <ClCompile Include="principal.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
